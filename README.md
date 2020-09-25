@@ -8,4 +8,4 @@
 
 3.py works for visualizing the result of 1.csv and 2.csv, and then resulting a 3.png file.
 
-Three Script.inpy is a jupyter notebook which works for invoking above 3 files in one notebook.
+Three Script.ipynb is a jupyter notebook which works for invoking above 3 files in one notebook.
