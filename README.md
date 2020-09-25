@@ -7,3 +7,5 @@
 2.py works for generating 1000 numbers based on 1.csv by using function y=3x+6, and then resulting a 2.csv file.
 
 3.py works for visualizing the result of 1.csv and 2.csv, and then resulting a 3.png file.
+
+ThreeScript.inpy is a jupyter notebook which works for invoking above 3 files in one notebook.
