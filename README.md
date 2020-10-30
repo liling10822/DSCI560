@@ -20,4 +20,12 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
   
   ```git clone https://github.com/liling10822/DSCI560.git```
   
- step3. 
+ step3. Running ```cd DSCI560```  to go to the folder that you cloned
+ 
+ step4. Create a blank virtual environment called dsci560H4 by running command line below
+ 
+ For macOS and Linux: ```python3 -m venv dsci560H4```
+ For Window: ```py -m venv dsci560H4```
+ 
+ step5. 
+
