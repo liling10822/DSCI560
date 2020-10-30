@@ -12,20 +12,20 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
 
  ## How to create a virtual environment for the GitHub project
  
- step1. Install virtualenv package on your computer by running command line below
+1. Install virtualenv package on your computer by running command line below
  
  ```pip install virtualenv```
  
- step2. Copy the url of repository and clone it by running command line below
+ 2. Copy the url of repository and clone it by running command line below
   
   ```git clone https://github.com/liling10822/DSCI560.git```
   
- step3. Running ```cd DSCI560```  to go to the folder that you cloned
+3. Running ```cd DSCI560```  to go to the folder that you cloned
  
- step4. Create a blank virtual environment called dsci560H4 by running command line below
+4. Create a blank virtual environment called dsci560H4 by running command line below
  
  For macOS and Linux: ```python3 -m venv dsci560H4```
  For Window: ```py -m venv dsci560H4```
  
- step5. 
+5. 
 
