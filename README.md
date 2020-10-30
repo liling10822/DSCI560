@@ -26,7 +26,15 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
  
      For macOS and Linux: ```python3 -m venv dsci560H4```
    
-     For Window: ```py -m venv dsci560H4```
-5. 
+     For Windows: ```py -m venv dsci560H4```
+5. Activate the dsci560H4 enviornment by running command line below:
 
- 
+     For macOS and Linux: ```source dsci560H4/bin/activate``
+   
+     For Windows: ```.\dsci560H4\Script\activate```
+6. Install dependencies by running command line below:
+    ````pip install -r requirements.txt````
+Otherwise, running command line below to manually install the packages that be needed:
+````
+pip install pandas
+pip install matplotlib
