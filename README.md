@@ -27,7 +27,6 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
      For macOS and Linux: ```python3 -m venv dsci560H4```
    
      For Window: ```py -m venv dsci560H4```
- 
 5. 
 
  
