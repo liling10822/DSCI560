@@ -38,6 +38,17 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
     
    Otherwise, running command line below to manually install the packages that be needed:
     ````
-    pip install pandas
+    pip install seaborn
     pip install matplotlib
     ````
+7. To run scripts in the DSCI560 repository, excuting commmand line below:
+
+    ```
+    python random_num.py
+    ```
+    ```
+    python function_random_num.py
+    ```
+    ```
+    python visualization_nums.py
+    ```
