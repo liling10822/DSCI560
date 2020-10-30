@@ -9,3 +9,9 @@
 3.py works for visualizing the result of 1.csv and 2.csv, and then resulting a 3.png file.
 
 Three Script.ipynb is a jupyter notebook which works for invoking above 3 files in one notebook.
+
+ ## How to create a virtual environment for the GitHub project
+ step1. install virtualenv package on your computer by run command line
+ ```
+ pip install virtualenv
+ ```
