@@ -41,6 +41,23 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
     pip install seaborn
     pip install matplotlib
     ````
+    After installing, run ```pip freeze``` to list all the package in the dsci560H4 environment, it will show like below:
+    ```
+    certifi==2020.6.20
+    cycler==0.10.0
+    kiwisolver==1.3.0
+    matplotlib==3.3.2
+    numpy==1.19.3
+    pandas==1.1.3
+    Pillow==8.0.1
+    pyparsing==2.4.7
+    python-dateutil==2.8.1
+    pytz==2020.1
+    scipy==1.5.3
+    seaborn==0.11.0
+    six==1.15.0
+    ```
+
 7. To run scripts in the DSCI560 repository, excuting commmand line below:
 
     ```
@@ -52,7 +69,8 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
     ```
     python visualization_nums.py
     ```
-    For example, we run random_num.py in our dsci560H4 enviornment in macOS, the terminal will show as below:
+    For example, we run random_num.py successfully in our dsci560H4 environment in macOS, the terminal will show as below:
     
     ![image](https://raw.githubusercontent.com/liling10822/DSCI560/master/screeshot_of_run_random_num.png)
-    
+  
+ 8. 
