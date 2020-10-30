@@ -52,3 +52,7 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
     ```
     python visualization_nums.py
     ```
+    For example, we run random_num.py in our dsci560H4 enviornment in macOS, the terminal will show as below:
+    
+    ![image](https://raw.githubusercontent.com/liling10822/DSCI560/master/screeshot_of_run_random_num.png)
+    
