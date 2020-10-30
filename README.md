@@ -8,7 +8,7 @@ function_random_num.py works for generating 1000 numbers based on random_num.csv
 
 visualization_nums.py works for visualizing the result of random_num.csv and function_random_num.csv, and then resulting a visualization_nums.png file.
 
-Three Script.ipynb is a jupyter notebook which works for invoking above 3 files in one notebook and generating the distributions of initial, intermediate and final results.
+Three Script.ipynb is a jupyter notebook which works for invoking above 3 files in one notebook and generating the distributions and linear plot of initial, intermediate and final results.
 
  ## How to create a virtual environment for the GitHub project
  
