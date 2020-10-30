@@ -33,8 +33,10 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
    
      For Windows: ```.\dsci560H4\Script\activate```
 6. Install dependencies by running command line below:
+
     ````pip install -r requirements.txt````
-Otherwise, running command line below to manually install the packages that be needed:
-````
+    
+   Otherwise, running command line below to manually install the packages that be needed:
+    ````
 pip install pandas
 pip install matplotlib
