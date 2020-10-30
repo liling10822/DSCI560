@@ -38,5 +38,6 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
     
    Otherwise, running command line below to manually install the packages that be needed:
     ````
-pip install pandas
-pip install matplotlib
+    pip install pandas
+    pip install matplotlib
+    ````
