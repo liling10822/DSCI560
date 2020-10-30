@@ -9,7 +9,7 @@ visualization_nums.py works for visualizing the result of random_num.csv and fun
 
 Three Script.ipynb is a jupyter notebook which works for invoking above 3 files in one notebook and generating the distributions and linear plot of initial, intermediate and final results.
 
- ## How to create a virtual environment for the GitHub project
+ ## How to create and use a virtual environment for the GitHub project
  
 1. Install virtualenv package on your computer by running the command line below:
  
