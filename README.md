@@ -40,7 +40,7 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
     pip install seaborn
     pip install matplotlib
     ````
-    After installing, run ```pip freeze```in dsci560H4 environment to list all the packages in the environment (which shows empty before installing the packages), it should be like below:
+    After installing, run ```pip freeze``` in dsci560H4 environment to list all the packages in the environment (which shows empty before installing the packages), it should be like below:
     ```
     certifi==2020.6.20
     cycler==0.10.0
