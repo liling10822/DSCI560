@@ -2,12 +2,12 @@ import csv
 import matplotlib.pyplot as plt
 
 
-with open("1.csv",'r') as xfile:
+with open("random_num.csv",'r') as xfile:
     readerx = csv.reader(xfile)
     data_x = list(readerx)
 
 
-with open("2.csv",'r') as yfile:
+with open("function_random_num.csv",'r') as yfile:
     readery = csv.reader(yfile)
     data_y = list(readery)
 
@@ -20,4 +20,4 @@ for i in range(1000):
 
 
 plt.plot(x,y)
-plt.savefig("3.png")
+plt.savefig("visualization_nums.png")
