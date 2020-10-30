@@ -1,7 +1,6 @@
 # DSCI560
 [![DOI](https://zenodo.org/badge/298402588.svg)](https://zenodo.org/badge/latestdoi/298402588)
-Fill in the fields to see the markdown badge snippet.
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liling10822/DSCI560.git/master?filepath=Three%20Scripts.ipynb)
 
 1.py works for generating 1000 random numbers between 0 to 100, and then resulting a 1.csv file.
 
