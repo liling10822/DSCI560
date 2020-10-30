@@ -16,7 +16,7 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
  
       ```pip install virtualenv```
  
- 2. Copy the url of repository and clone it by running command line below
+2. Copy the url of repository and clone it by running command line below
   
       ```git clone https://github.com/liling10822/DSCI560.git```
   
