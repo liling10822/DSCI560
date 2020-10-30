@@ -1,7 +1,5 @@
 # DSCI560
 [![DOI](https://zenodo.org/badge/298402588.svg)](https://zenodo.org/badge/latestdoi/298402588)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liling10822/DSCI560.git/master?filepath=Three%20Scripts.ipynb)
-
 random_num.py works for generating 1000 random numbers between 0 to 100, and then resulting a random_num.csv file.
 
 function_random_num.py works for generating 1000 numbers based on random_num.csv by using function y=3x+6, and then resulting a function_random_num.csv file.
