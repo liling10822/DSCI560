@@ -35,7 +35,7 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
 
     ````pip install -r requirements.txt````
     
-   Otherwise, running the command line below to manually install the packages that be needed:
+   Otherwise, running the command line below to manually install the packages that will be needed:
     ````
     pip install seaborn
     pip install matplotlib
