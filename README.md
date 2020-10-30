@@ -74,4 +74,5 @@ Three Script.ipynb is a jupyter notebook which works for invoking above 3 files 
   
  8. A binder badge to click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liling10822/DSCI560.git/master?filepath=Three%20Scripts.ipynb)
 for showing distributions and linear plot of DSCI560 repository.
+
  
